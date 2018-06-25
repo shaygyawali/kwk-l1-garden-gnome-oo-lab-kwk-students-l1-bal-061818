@@ -15,3 +15,4 @@ class GardenGnome
   def age 
     @age 
   end
+end
