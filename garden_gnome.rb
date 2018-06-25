@@ -15,4 +15,12 @@ class GardenGnome
   def age 
     @age 
   end
+  
+  def glutten_allergy(oh_no)
+    @glutten_allergy = oh_no
+  end
+  
+  def glutten_allergy 
+    @glutten_allergy
+  end
 end
