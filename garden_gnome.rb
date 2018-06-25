@@ -9,7 +9,7 @@ class GardenGnome
   end 
   
   def age=(gnome_age)
-    @age 
+    @age = gnome_age
   end 
   
   def age 
